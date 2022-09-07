@@ -3,9 +3,6 @@
 Clickbait headlines are becoming the norm on many platforms exacerbating the user experience, especially with the rise of fake news. The purpose of this project was to classify textual news headlines as clickbait using natural language processing.
 
 To build our machine learning model we used Python and the [NLTK (Natural Language Toolkit)](https://www.nltk.org/). We used a [Kaggle dataset](https://www.kaggle.com/amananandrai/clickbait-dataset) that categorized headlines as *clickbait* from websites such as BuzzFeed and headlines as *non-clickbait* from sources such as The New York Times.
-
-This group work was in collaboration with [Clemens S. Heithecker](https://github.com/clemensheithecker) and was part of a Decisions Support Systems course at [Tilburg University](https://www.tilburguniversity.edu/) in the Netherlands.
-
 ## Data Exploration
 
 Before building our classification models, we explored our data by drawing a word cloud of the most occurring words in clickbait headlines.
